@@ -24,15 +24,15 @@ cd ultimate-hacking-suite`
 
 2. Install Python Dependencies
 Copy and paste:
-pip3 install -r requirements.txt
+`pip3 install -r requirements.txt`
 
 3. Install System Tools and Clone Repos
 Copy and paste:
-chmod +x install_tools.sh
-sudo ./install_tools.sh
+`chmod +x install_tools.sh
+sudo ./install_tools.sh`
 
 4. Run the Suite
 Copy and paste:
-sudo python3 Ultimate_hacking_tool.py
+`sudo python3 Ultimate_hacking_tool.py`
 
 Note: Root is required for most tools. In Termux, run without sudo if your device is not rooted (some tools may fail).
