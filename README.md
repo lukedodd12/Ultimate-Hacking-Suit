@@ -19,8 +19,8 @@ Installation:
 
 1. Unzip the Archive
 Copy and paste:
-unzip ultimate-hacking-suite.zip
-cd ultimate-hacking-suite
+`unzip ultimate-hacking-suite.zip
+cd ultimate-hacking-suite`
 
 2. Install Python Dependencies
 Copy and paste:
